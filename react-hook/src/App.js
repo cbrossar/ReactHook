@@ -1,7 +1,10 @@
 // import logo from './logo.svg';
 import './App.css';
 // import FetchRandomUser from './components/FetchRandomUser.js'
-import HookPractice from './components/HookPractice.js'
+// import HookPractice from './components/HookPractice.js'
+// import HookBlind from './components/HookBlind.js'
+import SignIn from './components/RememberMe';
+
 
 function App() {
   return (
@@ -21,7 +24,7 @@ function App() {
     //     </a>
     //   </header>
     // </div>
-    <HookPractice></HookPractice>
+    <SignIn></SignIn>
 
   );
 }
