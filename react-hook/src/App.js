@@ -1,6 +1,7 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
-import FetchRandomUser from './components/FetchRandomUser.js'
+// import FetchRandomUser from './components/FetchRandomUser.js'
+import HookPractice from './components/HookPractice.js'
 
 function App() {
   return (
@@ -20,7 +21,7 @@ function App() {
     //     </a>
     //   </header>
     // </div>
-    <FetchRandomUser></FetchRandomUser>
+    <HookPractice></HookPractice>
 
   );
 }
